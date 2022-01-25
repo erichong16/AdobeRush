@@ -1,2 +1,2 @@
 # AdobeRush
-Adobe Coop at LMU
+Responsible for conducting sentiment analysis on Adobe Rush based on multiple social media sources.
